@@ -202,7 +202,7 @@ This script assumes the `helm` CLI has been pre-installed on your environment. F
 
 ==== Create registry mirrors pointing to your private registry for your Kubernetes distribution
 
-For RKE2, see link:https://docs.rke2.io/install/containerd_registry_configuration[Containerd Registry Configuration]
+For RKE2, see link:https://docs.rke2.io/install/registry_mirror[Embedded Registry Mirror]
 
 For K3s, see link:https://docs.k3s.io/installation/registry-mirror[Embedded Registry Mirror]
 
